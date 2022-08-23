@@ -1,0 +1,21 @@
+{
+  "id": "4e080ddc-e3c4-4970-9f43-f182004f8c11",
+  "version": "2.0",
+  "name": "Prueba Agenda Web",
+  "url": "",
+  "tests": [{
+    "id": "fe8a800b-d81e-4721-a3aa-184d5dcdda97",
+    "name": "Untitled",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "bb9ac2d2-26d4-42ef-be06-8d08d3bf9d30",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["fe8a800b-d81e-4721-a3aa-184d5dcdda97"]
+  }],
+  "urls": [],
+  "plugins": []
+}
